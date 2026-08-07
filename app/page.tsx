@@ -158,7 +158,7 @@ export default function Home() {
           that matters.
         </p>
         <p className="mt-3">
-          Built with love for a very good Assyrian word.
+          Built with love - Aidan Younathan.
         </p>
       </footer>
     </div>
