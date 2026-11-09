@@ -178,7 +178,7 @@ export function Detector() {
       "",
       `${result.percent}% DOOGLEH — ${result.verdict}`,
       "",
-      "Officially assessed at doogleh.com",
+      "Officially assessed at doogleh.net",
     ].join("\n");
     try {
       await navigator.clipboard.writeText(receipt);
